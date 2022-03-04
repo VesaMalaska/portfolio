@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I have used wide variety of different technologies over the years. C++, C# HTML, CSS, JavaScript, PHP, MySQL, Node.js, Express.js, React, MongoDB.
+      I have used wide variety of different technologies over the years. JavaScript, Node.js, Express.js, React, HTML, CSS, MongoDB, PHP, MySQL, C++, C#.
     </SectionText>
     <List>
       <ListItem>
