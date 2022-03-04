@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'CRM/ERP backend',
     description:"Express REST API backend to handle the data flow for CRM web app where REST API endpoints are restricted with JWT authentication middlewares.",
-    image: '/images/erp-backend.png',
+    image: '/images/ERP-backend.png',
     tags: ['Express.js', 'JWT', 'MongoDB'],
     source: '',
     visit: '',
