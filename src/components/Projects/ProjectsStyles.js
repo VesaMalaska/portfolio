@@ -94,7 +94,7 @@ color:#d4c0c0;
 font-size: 1.6rem;
 padding:1rem 1.5rem;
 background: ${props => props.linkUrl === '' ? '#555555;' : '#35148c;'}
-border-radius: 15px;
+border-radius: 20px;
 transition: 0.5s;
 &:hover{
   ${props => props.linkUrl === '' ? '' : 'background: #008fab;'}
