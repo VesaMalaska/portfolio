@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I have used wide variety of different technologies over the years. JavaScript, Node.js, Express.js, React, HTML, CSS, MongoDB, PHP, MySQL, C++, C#.
+      I have used a wide variety of different technologies over the years. JavaScript, Node.js, Express.js, React, HTML, CSS, MongoDB, PHP, MySQL, C++, C#.
     </SectionText>
     <List>
       <ListItem>
@@ -20,7 +20,7 @@ const Technologies = () =>  (
             React <br />
             Next.js <br />
             styled-components <br />
-            Tailwindcss <br />
+            Tailwind CSS <br />
             HTML + CSS + Bootstrap             
           </ListParagraph>
         </ListContainer>
