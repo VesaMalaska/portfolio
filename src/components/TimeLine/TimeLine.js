@@ -64,7 +64,7 @@ const Timeline = () => {
         </p>
         <p>&nbsp;</p>
         <p>
-        As I was experimenting with programming during my studies, I realised that I could make some money building websites for small businesses using HTML, CSS and JavaScript. This was a huge turning point in my programming journey. Not only did I learn new technologies again, it also gave me the confidence to start my own business around web development.
+        As I was experimenting with programming during my studies, I realised that I could make some money building websites for small businesses using HTML, CSS and JavaScript. This was a huge turning point in my programming journey. Not only did I learn new technologies again, it also gave me the spark to include web development services in my own business in 2010.
 
         During the past 12 years, I've been on the path of building web sites and e-commerce solutions for various customers using WordPress, WooCommerce and MySQL. The latest five years I've been diving deep into modern JavaScript frameworks and libraries like Node.js, Express.js, React and all the good stuff related to these.
         </p>
