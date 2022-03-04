@@ -18,6 +18,9 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             React <br />
+            Next.js <br />
+            styled-components <br />
+            Tailwindcss <br />
             HTML + CSS + Bootstrap             
           </ListParagraph>
         </ListContainer>
@@ -27,7 +30,8 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Node.js + Express.js <br />
+            Node.js <br />
+            Express.js <br />
             CodeIgniter
           </ListParagraph>
         </ListContainer>
