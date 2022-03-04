@@ -37,7 +37,7 @@ export const projects = [
   },
   {
     title: 'WooCommerce-Netvisor integration',
-    description:"Integration solution for customers two different WooCommerce web shops and Netvisor financial management system. The product quantities were synchronized between the two web shops, sales data was synchronized from web shops to Netvisor and sales reports were generated automatically as XLSX spreadsheets.",
+    description:"Integration solution for customer's two different WooCommerce web shops and Netvisor financial management system. The product quantities were synchronized between the two web shops, sales data was synchronized from web shops to Netvisor and sales reports were generated automatically as XLSX spreadsheets.",
     image: '/images/woocommerce-netvisor-integration.png',
     tags: ['CodeIgniter', 'MySQL', 'HTML/Bootstrap'],
     source: '',
