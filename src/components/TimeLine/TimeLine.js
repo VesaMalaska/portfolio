@@ -50,11 +50,11 @@ const Timeline = () => {
       <Img src="/images/vesku.png" />
       <SectionText>
         <p>
-          I have long history with coding. It all started when I got my first Commodore64 when I was 8 years old. I wrote the code examples from the back of the C64 manual and I was super excited about it. Then years later I started learning the programming in the school... and I was super excited :)
+          I have a long history with coding. It all started when I got my first Commodore64 when I was 8 years old. I wrote the code examples from the back of the C64 manual and I was super excited about it. Years later I started studying programming in school... and again I was super excited. :)
         </p>
         <p>&nbsp;</p>
         <p>
-          I've been interested in programming generally and have inspected the software development from different angles. It started with C++ and I had huge interest towards game development and multimedia. I made a Pac Man style game with Lingo language in Adobe Director, I coded a small game with vanilla JavaScript and later on I got into Unity with C#. 
+          Programming has always fascinated me and I've been interested in programming generally and have inspected the software development from different angles. It started with C++ and I had huge interest towards game development and multimedia. I made a Pac Man style game with Lingo language in Adobe Director, I coded a small game with vanilla JavaScript and later on I got into Unity with C#. 
         </p>
         <p>&nbsp;</p>
         <p>
