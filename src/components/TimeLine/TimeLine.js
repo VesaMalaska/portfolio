@@ -59,10 +59,14 @@ const Timeline = () => {
           During my polytechnic studies, I was very eager to learn programming and due to my interest towards game development and multimedia, I started working on a simple text-based game using C++.
 
           I also made a Pac-Man styled game using Lingo in Adobe Director, where you could set mines in the path of enemy characters. After that I did some experimenting with vanilla JavaScript, using it to manipulate the DOM dynamically in the browser to control simple sprite graphics. Later on I got into Unity using C#, working on a simple tank game with a top-down view and I also touched base with the basics of 3D physics engines through some tutorials.
+
+          I also fiddled with Raspberry Pi 2 and some electronics components using a solderless breadboard. I installed Raspbian to run the device and used the preinstalled Python runtime to control a simple LED light on the breadboard through the 40-pin GPIO port.
         </p>
         <p>&nbsp;</p>
         <p>
-          There's been lot more like IoT programming with Raspberry Pi to point out something but where I really got from there was web development with HTML, CSS, JavaScript, PHP and MySQL. And now the latest five years I've been diving deep into modern JavaScript frameworks and libraries like Node.js, Express.js, React and all the good stuff related to these. With Express I have used MongoDB for data management.
+        As I was experimenting with programming during my studies, I realised that I could make some money building websites for small businesses using HTML, CSS and JavaScript. This was a huge turning point in my programming journey. Not only did I learn new technologies again, it also gave me the confidence to start my own business around web development.
+
+        During the past 12 years, I've been on the path of building web sites and e-commerce solutions for various customers using WordPress, WooCommerce and MySQL. The latest five years I've been diving deep into modern JavaScript frameworks and libraries like Node.js, Express.js, React and all the good stuff related to these.
         </p>
       </SectionText>
       <CarouselContainer ref={carouselRef} onClick={handleScroll}>
