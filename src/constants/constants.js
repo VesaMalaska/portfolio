@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/portfolio-react.png',
       tags: ['React', 'Next.js', 'styled-components', 'Three.js'],
     source: 'https://github.com/VesaMalaska/portfolio',
-    visit: 'https://google.com',
+    visit: 'https://portfolio-two-bay.vercel.app/',
     id: 0,
   },
   {
@@ -13,8 +13,8 @@ export const projects = [
     description:"On this Single Page Application the data is fetched from The Movie Database (TMDB) REST API and then shown in grid layout. The shown data can be filtered out with the genre buttons. Transitions in grid layout are animated using Framer Motion library.",
     image: '/images/Motion-animation-project-img.png',
     tags: ['React', 'Framer Motion'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: '',
+    visit: '',
     id: 1,
   },
   {
