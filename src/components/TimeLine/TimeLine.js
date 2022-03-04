@@ -54,7 +54,11 @@ const Timeline = () => {
         </p>
         <p>&nbsp;</p>
         <p>
-          Programming has always fascinated me and I've been interested in programming generally and have inspected the software development from different angles. It started with C++ and I had huge interest towards game development and multimedia. I made a Pac Man style game with Lingo language in Adobe Director, I coded a small game with vanilla JavaScript and later on I got into Unity with C#. 
+          Programming has always fascinated me and one of main reasons for this is that you can apply it to so many things (games, multimedia, commerce, communication, embedded systems etc.). 
+
+          During my polytechnic studies, I was very eager to learn programming and due to my interest towards game development and multimedia, I started working on a simple text-based game using C++.
+
+          I also made a Pac-Man styled game using Lingo in Adobe Director, where you could set mines in the path of enemy characters. After that I did some experimenting with vanilla JavaScript, using it to manipulate the DOM dynamically in the browser to control simple sprite graphics. Later on I got into Unity using C#, working on a simple tank game with a top-down view and I also touched base with the basics of 3D physics engines through some tutorials.
         </p>
         <p>&nbsp;</p>
         <p>
