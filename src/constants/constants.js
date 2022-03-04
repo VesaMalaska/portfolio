@@ -92,7 +92,7 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2001, text: 'Created a web site for a customer', },
+  { year: 2001, text: 'Created a website for a customer', },
   { year: 2002, text: 'Coded a Pac Man style game with Adobe Director', },
   { year: 2003, text: 'Started working as IT Support Specialist', },
   { year: 2008, text: 'Started working as IT System Administrator', },
