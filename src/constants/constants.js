@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: 'Protfolio website',
+    title: 'Portfolio website',
     description: "This one page portfolio web site was created using Next.js. Styling was done with styled-components and the logo and the hero section animated background were implemented using Three.js.",
       image: '/images/portfolio-react.png',
       tags: ['React', 'Next.js', 'styled-components', 'Three.js'],
