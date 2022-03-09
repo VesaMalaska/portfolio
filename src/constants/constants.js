@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Portfolio website',
-    description: "This one page portfolio web site was created using Next.js. Styling was done with styled-components and the logo and the hero section animated background were implemented using Three.js.",
+    description: "This one page portfolio website was created using Next.js. Styling was done with styled-components and the logo and the hero section animated background were implemented using Three.js.",
       image: '/images/portfolio-react.png',
       tags: ['React', 'Next.js', 'styled-components', 'Three.js'],
     source: 'https://github.com/VesaMalaska/portfolio',
@@ -9,12 +9,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Movie grid filter',
+    title: 'Animated Filtering',
     description:"On this Single Page Application the data is fetched from The Movie Database (TMDB) REST API and then shown in grid layout. The shown data can be filtered out with the genre buttons. Transitions in grid layout are animated using Framer Motion library.",
     image: '/images/Motion-animation-project-img.png',
     tags: ['React', 'Framer Motion'],
-    source: '',
-    visit: '',
+    source: 'https://github.com/VesaMalaska/Animated-Filtering',
+    visit: 'https://animated-filtering.herokuapp.com/',
     id: 1,
   },
   {
