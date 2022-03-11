@@ -47,6 +47,7 @@ export const Div2 = styled.div`
 
   @media ${(props) => props.theme.breakpoints.sm} {
     grid-area: 2 / 2 / 3 / 5;
+    padding-top: 6px;
   }
 `;
 export const Div3 = styled.div`
